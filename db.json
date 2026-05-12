@@ -9,6 +9,8 @@
     },
     "FISHBOT-KEY-IPDWC3J3I5": {
         "expiry": "30.07.2026 18:58",
-        "hwids": []
+        "hwids": [
+            "96c5243a1bf85241"
+        ]
     }
 }
